@@ -17,7 +17,7 @@
 ## 🎭 실행 화면
 > <img src="https://show2022.emirim.kr/panel-img/Coloroid%20Love%20%EB%92%A4.jpg" height="500"/>
 
-> <img src="https://show2022.emirim.kr/panel-img/Coloroid%20Love%20%EC%95%9E.jpg" height="300"/>
+> <img src="https://show2022.emirim.kr/panel-img/Coloroid%20Love%20%EC%95%9E.jpg" height="200"/>
 <br>
 <br>
 
